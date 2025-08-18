@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146A2E28-DC0C-4516-B992-3641E9254161}|OrderByAge\\OrderByAge.csproj|g:\\visual studio 2022\\projects\\objectsandclasses\\orderbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146A2E28-DC0C-4516-B992-3641E9254161}|OrderByAge\\OrderByAge.csproj|solutionrelative:orderbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1B54B8-F42D-46CD-AE6E-C5A7B3DCD162}|VehicleCatalogue\\VehicleCatalogue.csproj|g:\\visual studio 2022\\projects\\objectsandclasses\\vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1B54B8-F42D-46CD-AE6E-C5A7B3DCD162}|VehicleCatalogue\\VehicleCatalogue.csproj|solutionrelative:vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38481AD-225F-41EF-94B8-E56BBC9F1963}|TeamworkProjects\\TeamworkProjects.csproj|g:\\visual studio 2022\\projects\\objectsandclasses\\teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38481AD-225F-41EF-94B8-E56BBC9F1963}|TeamworkProjects\\TeamworkProjects.csproj|solutionrelative:teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A362673A-CAB6-4EE7-9C04-069453B838E1}|Students\\Students.csproj|g:\\visual studio 2022\\projects\\objectsandclasses\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A362673A-CAB6-4EE7-9C04-069453B838E1}|Students\\Students.csproj|solutionrelative:students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8617EA4-CA94-4407-93DD-0E152B46AE5D}|Articles2.0\\Articles2.0.csproj|g:\\visual studio 2022\\projects\\objectsandclasses\\articles2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8617EA4-CA94-4407-93DD-0E152B46AE5D}|Articles2.0\\Articles2.0.csproj|solutionrelative:articles2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D9A7C9-203E-472E-8EA0-17964F293954}|Articles\\Articles.csproj|g:\\visual studio 2022\\projects\\objectsandclasses\\articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D9A7C9-203E-472E-8EA0-17964F293954}|Articles\\Articles.csproj|solutionrelative:articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4988A94-7960-4BE7-8A8A-39CBB8B0467C}|AdvertisementMessage\\AdvertisementMessage.csproj|g:\\visual studio 2022\\projects\\objectsandclasses\\advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4988A94-7960-4BE7-8A8A-39CBB8B0467C}|AdvertisementMessage\\AdvertisementMessage.csproj|solutionrelative:advertisementmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\OrderByAge\\Program.cs",
+              "RelativeDocumentMoniker": "OrderByAge\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\OrderByAge\\Program.cs",
+              "RelativeToolTip": "OrderByAge\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwD4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:11:19.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleCatalogue\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "VehicleCatalogue\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:10:53.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\TeamworkProjects\\Program.cs",
+              "RelativeDocumentMoniker": "TeamworkProjects\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\TeamworkProjects\\Program.cs",
+              "RelativeToolTip": "TeamworkProjects\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:10:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\Students\\Program.cs",
+              "RelativeDocumentMoniker": "Students\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\Students\\Program.cs",
+              "RelativeToolTip": "Students\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:10:15.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\Articles2.0\\Program.cs",
+              "RelativeDocumentMoniker": "Articles2.0\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\Articles2.0\\Program.cs",
+              "RelativeToolTip": "Articles2.0\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:10:01.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\Articles\\Program.cs",
+              "RelativeDocumentMoniker": "Articles\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\Articles\\Program.cs",
+              "RelativeToolTip": "Articles\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:09:44.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\AdvertisementMessage\\Program.cs",
+              "RelativeDocumentMoniker": "AdvertisementMessage\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\ObjectsAndClasses\\AdvertisementMessage\\Program.cs",
+              "RelativeToolTip": "AdvertisementMessage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:08:39.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

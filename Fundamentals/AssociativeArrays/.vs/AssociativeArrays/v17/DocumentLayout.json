@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4621ADBF-1090-4856-A2C7-FFCF806AAC10}|CompanyUsers\\CompanyUsers.csproj|g:\\visual studio 2022\\projects\\associativearrays\\companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4621ADBF-1090-4856-A2C7-FFCF806AAC10}|CompanyUsers\\CompanyUsers.csproj|solutionrelative:companyusers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB8F3352-5216-4BB2-BA5C-8AC6E728EF6A}|StudentAcademy\\StudentAcademy.csproj|g:\\visual studio 2022\\projects\\associativearrays\\studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB8F3352-5216-4BB2-BA5C-8AC6E728EF6A}|StudentAcademy\\StudentAcademy.csproj|solutionrelative:studentacademy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296B17F8-5542-4F8F-BE23-29C5A9DC8593}|Courses\\Courses.csproj|g:\\visual studio 2022\\projects\\associativearrays\\courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296B17F8-5542-4F8F-BE23-29C5A9DC8593}|Courses\\Courses.csproj|solutionrelative:courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA95174-CE14-4041-8E09-2C2117C9E44F}|SoftUniParking\\SoftUniParking.csproj|g:\\visual studio 2022\\projects\\associativearrays\\softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA95174-CE14-4041-8E09-2C2117C9E44F}|SoftUniParking\\SoftUniParking.csproj|solutionrelative:softuniparking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAD1A31-8C14-4498-B406-23AAAE89C5A1}|Orders\\Orders.csproj|g:\\visual studio 2022\\projects\\associativearrays\\orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAD1A31-8C14-4498-B406-23AAAE89C5A1}|Orders\\Orders.csproj|solutionrelative:orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF56E6-F4B7-40D2-A891-BA114EA6BD74}|AMinerTask\\AMinerTask.csproj|g:\\visual studio 2022\\projects\\associativearrays\\aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AF56E6-F4B7-40D2-A891-BA114EA6BD74}|AMinerTask\\AMinerTask.csproj|solutionrelative:aminertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0832E9CA-E23C-48C6-B7D5-02BECDEC3FA0}|CountCharsInString\\CountCharsInString.csproj|g:\\visual studio 2022\\projects\\associativearrays\\countcharsinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0832E9CA-E23C-48C6-B7D5-02BECDEC3FA0}|CountCharsInString\\CountCharsInString.csproj|solutionrelative:countcharsinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\CompanyUsers\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyUsers\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\CompanyUsers\\Program.cs",
+              "RelativeToolTip": "CompanyUsers\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:24:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\StudentAcademy\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAcademy\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\StudentAcademy\\Program.cs",
+              "RelativeToolTip": "StudentAcademy\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:24:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\Courses\\Program.cs",
+              "RelativeDocumentMoniker": "Courses\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\Courses\\Program.cs",
+              "RelativeToolTip": "Courses\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:23:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\SoftUniParking\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUniParking\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\SoftUniParking\\Program.cs",
+              "RelativeToolTip": "SoftUniParking\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:23:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\Orders\\Program.cs",
+              "RelativeDocumentMoniker": "Orders\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\Orders\\Program.cs",
+              "RelativeToolTip": "Orders\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:23:23.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\AMinerTask\\Program.cs",
+              "RelativeDocumentMoniker": "AMinerTask\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\AMinerTask\\Program.cs",
+              "RelativeToolTip": "AMinerTask\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:14:49.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\CountCharsInString\\Program.cs",
+              "RelativeDocumentMoniker": "CountCharsInString\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\AssociativeArrays\\CountCharsInString\\Program.cs",
+              "RelativeToolTip": "CountCharsInString\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:14:24.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

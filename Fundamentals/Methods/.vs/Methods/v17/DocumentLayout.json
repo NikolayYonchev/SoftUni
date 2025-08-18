@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual Studio 2022\\Projects\\Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808206A3-8CB1-4112-8DF2-8F230208F94C}|TopNumber\\TopNumber.csproj|g:\\visual studio 2022\\projects\\methods\\topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808206A3-8CB1-4112-8DF2-8F230208F94C}|TopNumber\\TopNumber.csproj|solutionrelative:topnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C15DB6-963E-4404-AA1A-5580A7B01D9B}|PalindromeIntegers\\PalindromeIntegers.csproj|g:\\visual studio 2022\\projects\\methods\\palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C15DB6-963E-4404-AA1A-5580A7B01D9B}|PalindromeIntegers\\PalindromeIntegers.csproj|solutionrelative:palindromeintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102B4C53-8A59-4844-9CDA-38514552C9FC}|FactorialDivision\\FactorialDivision.csproj|g:\\visual studio 2022\\projects\\methods\\factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102B4C53-8A59-4844-9CDA-38514552C9FC}|FactorialDivision\\FactorialDivision.csproj|solutionrelative:factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FCF7000-362A-442B-9DF8-FACDAA40AC8F}|NxNMatrix\\NxNMatrix.csproj|g:\\visual studio 2022\\projects\\methods\\nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FCF7000-362A-442B-9DF8-FACDAA40AC8F}|NxNMatrix\\NxNMatrix.csproj|solutionrelative:nxnmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349BF413-5C7D-40D8-99FB-7D1ABDB5FD84}|MiddleCharacters\\MiddleCharacters.csproj|g:\\visual studio 2022\\projects\\methods\\middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349BF413-5C7D-40D8-99FB-7D1ABDB5FD84}|MiddleCharacters\\MiddleCharacters.csproj|solutionrelative:middlecharacters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EF546F-FB44-4288-BFB2-52AAC6CA8E7B}|AddAndSubtract\\AddAndSubtract.csproj|g:\\visual studio 2022\\projects\\methods\\addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EF546F-FB44-4288-BFB2-52AAC6CA8E7B}|AddAndSubtract\\AddAndSubtract.csproj|solutionrelative:addandsubtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5897B701-1627-4206-878D-814B58613A84}|PasswordValidator\\PasswordValidator.csproj|g:\\visual studio 2022\\projects\\methods\\passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5897B701-1627-4206-878D-814B58613A84}|PasswordValidator\\PasswordValidator.csproj|solutionrelative:passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C28AE584-6ECA-4772-A4FB-05045FDC523B}|CharactersInRange\\CharactersInRange.csproj|g:\\visual studio 2022\\projects\\methods\\charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C28AE584-6ECA-4772-A4FB-05045FDC523B}|CharactersInRange\\CharactersInRange.csproj|solutionrelative:charactersinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A2E27-70CD-4448-9ED3-C5CDF60B3300}|VowelsCount\\VowelsCount.csproj|g:\\visual studio 2022\\projects\\methods\\vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A2E27-70CD-4448-9ED3-C5CDF60B3300}|VowelsCount\\VowelsCount.csproj|solutionrelative:vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFDE7D9-9947-4570-B683-3BAC8A60BB79}|SmallestOfThreeNumbers\\SmallestOfThreeNumbers.csproj|g:\\visual studio 2022\\projects\\methods\\smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFDE7D9-9947-4570-B683-3BAC8A60BB79}|SmallestOfThreeNumbers\\SmallestOfThreeNumbers.csproj|solutionrelative:smallestofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\TopNumber\\Program.cs",
+              "RelativeDocumentMoniker": "TopNumber\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\TopNumber\\Program.cs",
+              "RelativeToolTip": "TopNumber\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:58:28.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\PalindromeIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeIntegers\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\PalindromeIntegers\\Program.cs",
+              "RelativeToolTip": "PalindromeIntegers\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:58:08.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "FactorialDivision\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\FactorialDivision\\Program.cs",
+              "RelativeToolTip": "FactorialDivision\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:57:54.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\NxNMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "NxNMatrix\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\NxNMatrix\\Program.cs",
+              "RelativeToolTip": "NxNMatrix\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:57:32.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\MiddleCharacters\\Program.cs",
+              "RelativeDocumentMoniker": "MiddleCharacters\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\MiddleCharacters\\Program.cs",
+              "RelativeToolTip": "MiddleCharacters\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:57:14.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\AddAndSubtract\\Program.cs",
+              "RelativeDocumentMoniker": "AddAndSubtract\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\AddAndSubtract\\Program.cs",
+              "RelativeToolTip": "AddAndSubtract\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:56:55.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordValidator\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\PasswordValidator\\Program.cs",
+              "RelativeToolTip": "PasswordValidator\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:56:34.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\CharactersInRange\\Program.cs",
+              "RelativeDocumentMoniker": "CharactersInRange\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\CharactersInRange\\Program.cs",
+              "RelativeToolTip": "CharactersInRange\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:56:08.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "VowelsCount\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\VowelsCount\\Program.cs",
+              "RelativeToolTip": "VowelsCount\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:53:02.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Methods\\SmallestOfThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SmallestOfThreeNumbers\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Methods\\SmallestOfThreeNumbers\\Program.cs",
+              "RelativeToolTip": "SmallestOfThreeNumbers\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:52:39.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

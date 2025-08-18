@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual Studio 2022\\Projects\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A83159-205D-4191-9B76-554F2AABE38F}|Equal Sum\\Equal Sum.csproj|g:\\visual studio 2022\\projects\\arrays\\equal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A83159-205D-4191-9B76-554F2AABE38F}|Equal Sum\\Equal Sum.csproj|solutionrelative:equal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44B90DE-C658-434A-90A4-6250146C4672}|MagicSum\\MagicSum.csproj|g:\\visual studio 2022\\projects\\arrays\\magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44B90DE-C658-434A-90A4-6250146C4672}|MagicSum\\MagicSum.csproj|solutionrelative:magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7687BBB6-14EF-41B6-9F25-F492909AEEFE}|MaxSequenceOfEqualElements\\MaxSequenceOfEqualElements.csproj|g:\\visual studio 2022\\projects\\arrays\\maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7687BBB6-14EF-41B6-9F25-F492909AEEFE}|MaxSequenceOfEqualElements\\MaxSequenceOfEqualElements.csproj|solutionrelative:maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1505CB6B-3A2B-4FD1-A3BE-B7B64DCF0E7B}|TopIntegers\\TopIntegers.csproj|g:\\visual studio 2022\\projects\\arrays\\topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1505CB6B-3A2B-4FD1-A3BE-B7B64DCF0E7B}|TopIntegers\\TopIntegers.csproj|solutionrelative:topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E06197-3F0F-408B-A6FF-B8E8D8B5CACD}|ArrayRotation\\ArrayRotation.csproj|g:\\visual studio 2022\\projects\\arrays\\arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E06197-3F0F-408B-A6FF-B8E8D8B5CACD}|ArrayRotation\\ArrayRotation.csproj|solutionrelative:arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BFE772-CEE9-4FFE-87F4-A499564443D7}|Zig-ZagArrays\\Zig-ZagArrays.csproj|g:\\visual studio 2022\\projects\\arrays\\zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BFE772-CEE9-4FFE-87F4-A499564443D7}|Zig-ZagArrays\\Zig-ZagArrays.csproj|solutionrelative:zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9556B0DD-7256-4911-B772-11BAC2ADAEFA}|CommonElements\\CommonElements.csproj|g:\\visual studio 2022\\projects\\arrays\\commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9556B0DD-7256-4911-B772-11BAC2ADAEFA}|CommonElements\\CommonElements.csproj|solutionrelative:commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF141BB1-2D07-4F02-8996-EC8DBA1DFE7A}|Train\\Train.csproj|g:\\visual studio 2022\\projects\\arrays\\train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF141BB1-2D07-4F02-8996-EC8DBA1DFE7A}|Train\\Train.csproj|solutionrelative:train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\Equal Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Equal Sum\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\Equal Sum\\Program.cs",
+              "RelativeToolTip": "Equal Sum\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:45:48.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "MagicSum\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\MagicSum\\Program.cs",
+              "RelativeToolTip": "MagicSum\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:45:22.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "MaxSequenceOfEqualElements\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeToolTip": "MaxSequenceOfEqualElements\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:45:06.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "TopIntegers\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\TopIntegers\\Program.cs",
+              "RelativeToolTip": "TopIntegers\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:44:45.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayRotation\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\ArrayRotation\\Program.cs",
+              "RelativeToolTip": "ArrayRotation\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:44:28.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Zig-ZagArrays\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "Zig-ZagArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:39:59.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\CommonElements\\Program.cs",
+              "RelativeDocumentMoniker": "CommonElements\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\CommonElements\\Program.cs",
+              "RelativeToolTip": "CommonElements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:39:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Arrays\\Train\\Program.cs",
+              "RelativeDocumentMoniker": "Train\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Arrays\\Train\\Program.cs",
+              "RelativeToolTip": "Train\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:10:34.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

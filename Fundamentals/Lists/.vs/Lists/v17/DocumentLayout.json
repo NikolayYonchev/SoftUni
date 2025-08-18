@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual Studio 2022\\Projects\\Lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23707A8A-4ABF-4D25-BFAA-5619894A097A}|AppendArrays\\AppendArrays.csproj|g:\\visual studio 2022\\projects\\lists\\appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23707A8A-4ABF-4D25-BFAA-5619894A097A}|AppendArrays\\AppendArrays.csproj|solutionrelative:appendarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A583224-9104-4347-9639-1D3A99ECBB23}|CardsGame\\CardsGame.csproj|g:\\visual studio 2022\\projects\\lists\\cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A583224-9104-4347-9639-1D3A99ECBB23}|CardsGame\\CardsGame.csproj|solutionrelative:cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A589A70-F102-498D-8BA9-8A43666D0A16}|BombNumbers\\BombNumbers.csproj|g:\\visual studio 2022\\projects\\lists\\bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A589A70-F102-498D-8BA9-8A43666D0A16}|BombNumbers\\BombNumbers.csproj|solutionrelative:bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5BE2D3-3EAA-4453-BCBA-FD6A2210891E}|ListOperations\\ListOperations.csproj|g:\\visual studio 2022\\projects\\lists\\listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5BE2D3-3EAA-4453-BCBA-FD6A2210891E}|ListOperations\\ListOperations.csproj|solutionrelative:listoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EAA9D8B-C32A-43A1-A09D-AC4C5C857011}|HouseParty\\HouseParty.csproj|g:\\visual studio 2022\\projects\\lists\\houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EAA9D8B-C32A-43A1-A09D-AC4C5C857011}|HouseParty\\HouseParty.csproj|solutionrelative:houseparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B90EA06-87F5-423C-B7A2-6A024110D3CC}|ChangeList\\ChangeList.csproj|g:\\visual studio 2022\\projects\\lists\\changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B90EA06-87F5-423C-B7A2-6A024110D3CC}|ChangeList\\ChangeList.csproj|solutionrelative:changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C2E97C-ADF6-49A0-833F-47B9EC1842AF}|Train\\Train.csproj|g:\\visual studio 2022\\projects\\lists\\train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C2E97C-ADF6-49A0-833F-47B9EC1842AF}|Train\\Train.csproj|solutionrelative:train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Lists\\AppendArrays\\Program.cs",
+              "RelativeDocumentMoniker": "AppendArrays\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Lists\\AppendArrays\\Program.cs",
+              "RelativeToolTip": "AppendArrays\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:05:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Lists\\CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "CardsGame\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Lists\\CardsGame\\Program.cs",
+              "RelativeToolTip": "CardsGame\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:05:40.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Lists\\BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "BombNumbers\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Lists\\BombNumbers\\Program.cs",
+              "RelativeToolTip": "BombNumbers\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:05:24.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Lists\\ListOperations\\Program.cs",
+              "RelativeDocumentMoniker": "ListOperations\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Lists\\ListOperations\\Program.cs",
+              "RelativeToolTip": "ListOperations\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:04:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Lists\\HouseParty\\Program.cs",
+              "RelativeDocumentMoniker": "HouseParty\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Lists\\HouseParty\\Program.cs",
+              "RelativeToolTip": "HouseParty\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:04:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Lists\\ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "ChangeList\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Lists\\ChangeList\\Program.cs",
+              "RelativeToolTip": "ChangeList\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:04:15.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\Lists\\Train\\Program.cs",
+              "RelativeDocumentMoniker": "Train\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\Lists\\Train\\Program.cs",
+              "RelativeToolTip": "Train\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:03:52.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

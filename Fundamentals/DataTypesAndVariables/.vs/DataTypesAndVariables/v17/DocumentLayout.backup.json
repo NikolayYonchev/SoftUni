@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC626A08-2A2D-44E1-840C-0994ECB2D67A}|BeerKegs\\BeerKegs.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC626A08-2A2D-44E1-840C-0994ECB2D67A}|BeerKegs\\BeerKegs.csproj|solutionrelative:beerkegs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9F981B-3291-417F-9451-B0B11E0C1601}|WaterOverflow\\WaterOverflow.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9F981B-3291-417F-9451-B0B11E0C1601}|WaterOverflow\\WaterOverflow.csproj|solutionrelative:wateroverflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6950DFEC-5F3F-4C24-8CD0-D4A64E908E60}|TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6950DFEC-5F3F-4C24-8CD0-D4A64E908E60}|TriplesOfLatinLetters\\TriplesOfLatinLetters.csproj|solutionrelative:triplesoflatinletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C36C1C-E3DF-4191-8555-D5BE4133B4EB}|PrintPartOfASCIITable\\PrintPartOfASCIITable.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C36C1C-E3DF-4191-8555-D5BE4133B4EB}|PrintPartOfASCIITable\\PrintPartOfASCIITable.csproj|solutionrelative:printpartofasciitable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79051B21-DC81-473D-AEAE-69B3D5A2C30E}|SumOfChars\\SumOfChars.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79051B21-DC81-473D-AEAE-69B3D5A2C30E}|SumOfChars\\SumOfChars.csproj|solutionrelative:sumofchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1A6583-175B-41C5-A65C-E82D4E82ACC3}|Elevator\\Elevator.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1A6583-175B-41C5-A65C-E82D4E82ACC3}|Elevator\\Elevator.csproj|solutionrelative:elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C904C9-937C-4A11-B692-E78D50B9DB69}|Sum Digits\\Sum Digits.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C904C9-937C-4A11-B692-E78D50B9DB69}|Sum Digits\\Sum Digits.csproj|solutionrelative:sum digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2441A0A8-A477-4ED3-9716-FDC18E486564}|IntegerOperations\\IntegerOperations.csproj|g:\\visual studio 2022\\projects\\datatypesandvariables\\integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2441A0A8-A477-4ED3-9716-FDC18E486564}|IntegerOperations\\IntegerOperations.csproj|solutionrelative:integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\BeerKegs\\Program.cs",
+              "RelativeDocumentMoniker": "BeerKegs\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\BeerKegs\\Program.cs",
+              "RelativeToolTip": "BeerKegs\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:55:49.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\WaterOverflow\\Program.cs",
+              "RelativeDocumentMoniker": "WaterOverflow\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\WaterOverflow\\Program.cs",
+              "RelativeToolTip": "WaterOverflow\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:55:30.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\TriplesOfLatinLetters\\Program.cs",
+              "RelativeDocumentMoniker": "TriplesOfLatinLetters\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\TriplesOfLatinLetters\\Program.cs",
+              "RelativeToolTip": "TriplesOfLatinLetters\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:55:06.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\PrintPartOfASCIITable\\Program.cs",
+              "RelativeDocumentMoniker": "PrintPartOfASCIITable\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\PrintPartOfASCIITable\\Program.cs",
+              "RelativeToolTip": "PrintPartOfASCIITable\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:54:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\SumOfChars\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfChars\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\SumOfChars\\Program.cs",
+              "RelativeToolTip": "SumOfChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:53:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "Elevator\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\Elevator\\Program.cs",
+              "RelativeToolTip": "Elevator\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:53:22.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\Sum Digits\\Program.cs",
+              "RelativeDocumentMoniker": "Sum Digits\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\Sum Digits\\Program.cs",
+              "RelativeToolTip": "Sum Digits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:53:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\IntegerOperations\\Program.cs",
+              "RelativeDocumentMoniker": "IntegerOperations\\Program.cs",
+              "ToolTip": "G:\\Visual Studio 2022\\Projects\\DataTypesAndVariables\\IntegerOperations\\Program.cs",
+              "RelativeToolTip": "IntegerOperations\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:52:41.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
